@@ -1,2 +1,2 @@
-# This project is designed by 
+# This project is designed and developed by 
 Nabin Yadav
