@@ -1,0 +1,13 @@
+/* .backgroundimg{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    backface-visibility: 20%;
+    opacity: 5;
+    transition: opacity 0.25s;
+    position: absolute;
+    background-size: cover;
+} */

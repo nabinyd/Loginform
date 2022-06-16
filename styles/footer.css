@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    left: 0;
+    right: 0;
+
+
+}
+
+.footer_container{
+    color: rgb(255, 255, 255);
+    
+    font-size: small;
+padding-top: 98px;
+padding-left: 63rem;
+display: flex;
+flex-direction: column;
+}
